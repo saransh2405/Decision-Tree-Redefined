@@ -1,0 +1,11 @@
+10 4
+R Y 0 A
+R X 0 A
+R X 0 B
+R X 1 A
+G X 1 B
+G X 1 A
+G X 1 A
+G X 1 B
+B Y 1 A
+B Y 0 B

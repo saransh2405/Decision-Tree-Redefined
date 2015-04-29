@@ -1,0 +1,6 @@
+This is a generic code for the given assignment, you can test any value as input data i.e. not just 0,1,2 or 0,1 s target data and the siza can be any number of rows and any number of columns.
+
+Directions to execute code
+
+1. Extract the ML project 1 folder
+2. From command prompt go to the ML project 1 folder and execute python main.py
